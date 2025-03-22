@@ -23,13 +23,10 @@ https://guileless-babka-f8da2a.netlify.app
 1.Install dependencies:
 npm install
 
-2.Install tailwindcss:
-npm install tailwindcss @tailwindcss
-
-3.Start the development server:
+2.Start the development server:
 npm start
 
-4.Open http://localhost:3000 in your browser
+3.Open http://localhost:3000 in your browser
 
 ### 📂 File Structure
 
